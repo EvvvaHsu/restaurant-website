@@ -27,10 +27,10 @@
 git clone https://github.com/EvvvaHsu/restaurant-website.git
 ```
 
-2. 開啟終端機(Terminal)，進入存放此專案的資料夾 restaurantList
+2. 開啟終端機(Terminal)，進入存放此專案的資料夾 restaurant_list
 
 ```
-cd restaurantList
+cd restaurant_list
 ```
 
 3. 安裝 npm 套件
